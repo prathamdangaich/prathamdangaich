@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on AI Ticket Solve<br>🤔 I’m looking for help with AI<br>💬 Ask me about Web Development<br>📫 How to reach me: prathamdangaich@gmail.com</p>
+<p align="left">I am Final Year CSE Undergrad  at G.L Bajaj Institute of Technology and Management<br>🔭 I’m currently working on the Project: AI Ticket Solve<br>🤔 I’m looking for help with AI<br>💬 Ask me about Web Development<br>📫 How to reach me: prathamdangaich@gmail.com</p>
 
 ###
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/pratham-dangaich/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:prathamdangaich@gmail.com" target="_blank">
+  <a href="prathamdangaich@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/__parthh_._/" target="_blank">
