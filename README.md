@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am Final Year CSE Undergrad  at G.L Bajaj Institute of Technology and Management<br>🔭 I’m currently working on the Project: Assistly<br>🤔 I’m looking for help with AI<br>💬 Ask me about Web Development<br>📫 How to reach me: prathamdangaich@gmail.com</p>
+<p align="left">Final Year CSE Undergrad  at G.L Bajaj Institute of Technology and Management<br>🔭 I’m currently working on the Project: Assistly<br>🤔 I’m looking for help with AI<br>💬 Ask me about Web Development<br>📫 How to reach me: prathamdangaich@gmail.com</p>
 
 ###
 
